@@ -1,5 +1,5 @@
 group 'MCpal'
-version ''
+version '1.0.0'
 
 apply plugin: 'java'
 
