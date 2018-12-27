@@ -13,5 +13,14 @@
 Example: java -jar MCpal.jar b:C:/Users/Potato/mc_backups
 5. (Optional) A config file will be generated, which means that from now on you can call "java -jar MCpal.jar" after the first run. You no longer need to provide the other commands.
 
+## Usage
+In your terminal, where you actually run MCPal, just type:
+- `backup`: To start a backup (including 10 seconds countdown)
+- `stop`: To stop the server (including 10 seconds countdown)
+- `istop`: To immediately stop the server
+- `start`: To start the server
+
+Other than that, the console will be the usual minecraft server console. You can interact with it like with any other console. 
+
 ## Feedback:
 Hit me up on telegram @codepleb for the shortest feedback loop. I cannot guarantee responses on other sources.
