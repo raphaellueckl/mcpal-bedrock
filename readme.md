@@ -1,3 +1,6 @@
+Check my manager , Contributing welcome
+https://github.com/Huje22/Bds-Auto-Enable
+
 # MCpal Bedrock - A lightweight Minecraft Server manager :)
 
 ## What does it do?
