@@ -26,8 +26,7 @@ public class Bootstrapper {
     private List<String> additionalCommandsToRunAfterBackup;
 
     public static void main(String[] args) throws URISyntaxException, IOException {
-        final Bootstrapper main = new Bootstrapper(args);
-        main.bootServer();
+        new Bootstrapper(args).bootServer();
     }
 
     public Bootstrapper(String... args) throws IOException, URISyntaxException {
