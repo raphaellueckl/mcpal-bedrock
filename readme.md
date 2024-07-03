@@ -1,4 +1,4 @@
-# MCpal Bedrock - A lightweight Minecraft Server manager :)
+# [DEPRECATED - Still works, but I made a newer and better version a long time ago here: https://github.com/raphaellueckl/cobble-quarry/releases] MCpal Bedrock - A lightweight Minecraft Server manager :)
 
 ## What does it do?
 - Automatic backups once a day (currently at 4am)
